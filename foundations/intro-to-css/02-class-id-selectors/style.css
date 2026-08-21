@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.odd{
+    background-color: pink;
+    font-family: Arial;
+    font-size: 26px;
+}
+#number2{
+    font-size: 60px;
+    color: blue;
+}
+.cool{
+    background-color: pink;
+    font-size: 40px;
+    font-family: Arial;
+}
+#number4{
+    font-size: 40px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
